@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="title_activity_tempo">activity_tempo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="itensarea">
+        <item>cm²</item>
+        <item>dm²</item>
+        <item>m²</item>
+        <item>in²</item>
+        <item>ft²</item>
+    </string-array>
+
+    <string-array name="itenscomp">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="itenstempo">
+        <item>ms</item>
+        <item>seg</item>
+        <item>min</item>
+        <item>hora</item>
+        <item>dia</item>
+
+    </string-array>
+
+    <string-array name="itenspeso">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>oz</item>
+
+    </string-array>
+
+    <string-array name="itensvolume">
+        <item>L</item>
+        <item>cm³</item>
+        <item>dm³</item>
+        <item>m³</item>
+        <item>in³</item>
+
+    </string-array>
+    <string-array name="itenstemperatura">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+
+    </string-array>
+</resources>
